@@ -18,7 +18,7 @@ Feel free to check out my repositories! I’m always open to collaborating on in
 
 ---
 
-## contact
+## Contact
 - **Discord**: marquitas
 
 
