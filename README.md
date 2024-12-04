@@ -7,7 +7,7 @@ Currently, I'm working on various projects related to web development and buildi
 Feel free to check out my repositories! I’m always open to collaborating on interesting projects.
 
 ## Technologies I’m familiar with:
-# Programming Languages: JavaScript, Python, Java
+<h3>Programming Languages: JavaScript, Python, Java</h3> 
 # Tools: Quartus, Logisim, Git, Xampp
 # Frameworks: Node.js, Electron
 # Databases: MySQL
