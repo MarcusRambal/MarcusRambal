@@ -14,7 +14,6 @@ Feel free to check out my repositories! I’m always open to collaborating on in
 - **Tools**: Quartus, Logisim, Git, Xampp
 - **Frameworks**: Node.js, Electron
 - **Databases**: MySQL
-- **Other Interests**: Music production, Karate
 
 ---
 
