@@ -18,7 +18,7 @@ Feel free to check out my repositories! I’m always open to collaborating on in
 
 ---
 
-Let’s connect! 🚀
+
 
 <!--
 **MarcusRambal/MarcusRambal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
