@@ -12,7 +12,7 @@ Feel free to check out my repositories! I’m always open to collaborating on in
 
 - **Programming Languages**: JavaScript, Python, Java
 - **Tools**: Quartus, Logisim, Git, Xampp
-- **Frameworks**: Node.js, Electron
+- **Frameworks**: Electron
 - **Databases**: MySQL Firebase
 
 ---
