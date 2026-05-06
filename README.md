@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Marcus👋
 
 I'm a Systems Engineering student, with an emphasis on desktop application development. Specialized in the creation of modern cross-platform solutions using Electron, React, and TypeScript, implementing clean code practices. I have a strong sense of collaboration, creativity, and resilience—qualities that I enhance through my active participation in sports and cultural groups.
 
