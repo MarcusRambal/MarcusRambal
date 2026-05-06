@@ -10,6 +10,10 @@ I'm a Systems Engineering student, with an emphasis on desktop application devel
 - **Tools**: Git, figma, Overleaf
 - **Frameworks**: Electron, React, Nextjs
 - **Databases**: MySQL, Firebase
+  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 
 ---
 
