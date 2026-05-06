@@ -9,8 +9,9 @@ I'm a Systems Engineering student, with an emphasis on desktop application devel
 #### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+
 
 #### Frameworks
 ![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=flat-square)
