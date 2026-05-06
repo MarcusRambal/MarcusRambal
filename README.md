@@ -4,7 +4,7 @@ I'm a Systems Engineering student, with an emphasis on desktop application devel
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 #### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
