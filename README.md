@@ -4,16 +4,27 @@ I'm a Systems Engineering student, with an emphasis on desktop application devel
 
 ---
 
-## Technologies I’m familiar with:
+### 🛠 Tech Stack
 
-- **Programming Languages**: JavaScript, TypeScript, python, dart
-- **Tools**: Git, figma, Overleaf
-- **Frameworks**: Electron, React, Nextjs
-- **Databases**: MySQL, Firebase
-  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![Electron](https://img.shields.io/badge/-Electron-47848F?logo=electron&logoColor=white&style=flat-square)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+#### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
+
+#### Frameworks
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
+
+#### Tools
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A853?logo=latex&logoColor=white&style=flat-square)
 
 ---
 
