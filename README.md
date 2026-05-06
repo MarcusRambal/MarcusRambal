@@ -15,8 +15,8 @@ I'm a Systems Engineering student, with an emphasis on desktop application devel
 
 ## Projects
 
--Gestpalette: https://github.com/MarcusRambal/GestPaletteV1.01
--DartAppForBrightSpace: https://github.com/MarcusRambal/DartAppForBrightSpace
+- **Gestpalette**: https://github.com/MarcusRambal/GestPaletteV1.01
+- **DartAppForBrightSpace**: https://github.com/MarcusRambal/DartAppForBrightSpace
 
 ---
 
