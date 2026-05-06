@@ -1,37 +1,38 @@
 ## Hi there 👋
 
-I'm [@MarcusRambal], a Systems Engineering student passionate about programming. I’m constantly learning new technologies and improving my skills in web development and software engineering.
-
-Currently, I'm working on various projects related to web development and building desktop applications, using languages like **JavaScript**, and frameworks like **Electron**. When I’m not coding, I enjoy exploring the world of music through **bass guitar** or training **karate**.
-
-Feel free to check out my repositories! I’m always open to collaborating on interesting projects.
+I'm a Systems Engineering student, with an emphasis on desktop application development. Specialized in the creation of modern cross-platform solutions using Electron, React, and TypeScript, implementing clean code practices. I have a strong sense of collaboration, creativity, and resilience—qualities that I enhance through my active participation in sports and cultural groups.
 
 ---
 
 ## Technologies I’m familiar with:
 
-- **Programming Languages**: JavaScript, Python, Java
-- **Tools**: Quartus, Logisim, Git, Xampp
-- **Frameworks**: Electron
-- **Databases**: MySQL Firebase
+- **Programming Languages**: JavaScript, TypeScript, python, dart
+- **Tools**: Git, figma, Overleaf
+- **Frameworks**: Electron, React, Nextjs
+- **Databases**: MySQL, Firebase
 
 ---
 
+## Projects
+
+-Gestpalette: https://github.com/MarcusRambal/GestPaletteV1.01
+-DartAppForBrightSpace: https://github.com/MarcusRambal/DartAppForBrightSpace
+
+---
+
+## Hobbies/Interest
+
+When I’m not building software, I am:
+
+An Athlete: I compete as a member of the Uninorte Karate Selection, which has instilled in me a deep sense of discipline, resilience, and focus—qualities I bring to every project I take on.
+
+A Musician: As a bass and piano player, I see music as a structural art form, constantly helping me refine my creativity and pattern recognition.
+
+A Lifelong Learner: I am currently diving deep into Psychology. Understanding human behavior and cognition is more than a hobby for me; it’s a passion that directly informs how I approach UI/UX design and user-centered development.
+
 ## Contact
-- **Discord**: marquitas
+- **LinkeIn**: marcusrambalpreston
+- **email**: marcusrambalpreston@gmail.com
 
 
-<!--
-**MarcusRambal/MarcusRambal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
